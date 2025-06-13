@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Compiled files
+/target/
+/out/
+
+# Logs
+*.log
+
+# IDE / OS
+.DS_Store
+*.iml
+*.swp
+.idea/
+.vscode/
+
+# Environment
+*.env
+application.properties
+
